@@ -1,7 +1,3 @@
-# UNO.io
-A multiplayer/singleplayer io card game.
-
-Demo here: http://cardgame.uno/login
 
 ## Known bugs
 - The first card doesn't affect the game
